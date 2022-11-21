@@ -60,7 +60,7 @@ public class Biglietto {
 	
 	@Override
 	public String toString() {
-		return "età:" + età + "\nKM: " + Km + "\nPrezzo: " + calcolaPrezzo();  
+		return "\nPrezzo: " + calcolaPrezzo();  
 	}
 }
 
